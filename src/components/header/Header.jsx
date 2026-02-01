@@ -3,6 +3,7 @@ import logo from "./../../assets/images/logo.png"
 import download from "./../../assets/images/download.png"
 
 
+
 function Header() {
   
   return (
@@ -20,6 +21,7 @@ function Header() {
                     <li>Project</li>
                     <li>Contact Me</li>
                 </ul>
+              
             </nav>
 
             <div className="button">
