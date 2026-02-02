@@ -1,0 +1,48 @@
+.about-container {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 60px 80px;
+  gap: 88px;
+  
+}
+
+.content-container{
+    display: flex;
+    flex-direction: column;
+    width: 610px;
+    height: auto;
+    gap: 16px;
+}
+
+h1{
+    font-size: 48px;
+    font-weight: 400;
+    padding: 20px 0;
+
+    & span{
+        font-weight: 800;
+    }
+}
+
+.paragraph-container{
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+    
+    
+    & p{
+        font-size: 16px;
+        color: #71717A;
+        line-height: 24px;
+        font-weight: 400;
+        letter-spacing: 2%;
+    }
+    
+}
+
+img{
+    width: 518px;
+    height: 592px;
+    border-radius: 12px;
+}
