@@ -19,7 +19,7 @@ function Skills() {
                     <img src={skill1} alt="Git" />
                     <h3>Git</h3>
                 </div>
-                <div className="skills-item-span">
+                <div className="skills-item">
                     <img src={skill2} alt="JavaScript" />
                     <h3>JavaScript</h3>
                 </div>
